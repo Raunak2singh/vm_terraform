@@ -1,0 +1,1 @@
+variable "frontend_subnet" {}

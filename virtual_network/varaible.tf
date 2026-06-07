@@ -1,0 +1,1 @@
+variable "virtul_networks" {}
