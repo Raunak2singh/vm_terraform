@@ -5,4 +5,3 @@ resource "azurerm_resource_group" "virtual_network" {
   
 }
 
-neew 1
