@@ -4,3 +4,5 @@ resource "azurerm_resource_group" "virtual_network" {
     location = each.value.location
   
 }
+
+neew 1
